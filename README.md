@@ -15,7 +15,7 @@ Elite System Monitor is a batch script designed to track system performance metr
    ```sh
    git clone https://github.com/yourusername/SafelyBatchScripts.git
 2. Navigate to the script directory:
-cd SafelyBatchScripts
+cd your_directory
 
 3. Ensure PowerShell is installed and accessible.
 
