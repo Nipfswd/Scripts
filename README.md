@@ -13,7 +13,7 @@ Elite System Monitor is a batch script designed to track system performance metr
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/SafelyBatchScripts.git
+   git clone https://github.com/Nipfswd/Scripts/edit/master/README.md
 2. Navigate to the script directory:
 cd your_directory
 
