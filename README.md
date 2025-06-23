@@ -42,3 +42,18 @@ cd your_directory
 3. Wait for it to complete
 
 4. Find the generated log file in the same folder, named like env_diagnostics_2025-06-23.txt
+
+# How to use:
+
+1. Save it as looplab.bat
+2. Run it
+3. Set the target directory,filters,size limits,recursion
+4. Enter your custom action using variables:
+| Placeholder | Description                  |
+|-------------|------------------------------|
+| %%F         | filename (with extension)     |
+| %%P         | full file path                |
+| %%D         | directory                     |
+| %%E         | file extension (with dot)     |
+| %%N         | filename without extension    |
+
