@@ -31,9 +31,9 @@ cd your_directory
 
 4. Reboot to test!
 
-## env_diag.bat
+# env_diag.bat
 
-# How to use:
+## How to use:
 
 1. Save as env_diag.bat
 
