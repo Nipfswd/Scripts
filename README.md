@@ -49,11 +49,3 @@ cd your_directory
 2. Run it
 3. Set the target directory,filters,size limits,recursion
 4. Enter your custom action using variables:
-| Placeholder | Description                  |
-|-------------|------------------------------|
-| %%F         | filename (with extension)     |
-| %%P         | full file path                |
-| %%D         | directory                     |
-| %%E         | file extension (with dot)     |
-| %%N         | filename without extension    |
-
