@@ -30,3 +30,15 @@ cd your_directory
 3. Choose 2 to disable Safe Mode boot (normal boot resumes)
 
 4. Reboot to test!
+
+## env_diag.bat
+
+# How to use:
+
+1. Save as env_diag.bat
+
+2. Run as Administrator (some info needs elevated rights)
+
+3. Wait for it to complete
+
+4. Find the generated log file in the same folder, named like env_diagnostics_2025-06-23.txt
