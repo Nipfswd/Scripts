@@ -7,5 +7,5 @@
 2. Navigate to the script directory:
 ```sh
 cd your_directory
-
+```
 3. Ensure PowerShell is installed and accessible.
