@@ -19,3 +19,14 @@ cd your_directory
 2. Run as Administrator (needed for Windows Temp & clearing logs)
 
 3. Watch the progress
+
+# Safe_Mode_Toggle.bat
+
+## Usage
+1. Run as Administrator (very important)
+
+2. Choose 1 to enable Safe Mode boot (next reboot boots into Safe Mode)
+
+3. Choose 2 to disable Safe Mode boot (normal boot resumes)
+
+4. Reboot to test!
